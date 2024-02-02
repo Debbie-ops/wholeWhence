@@ -37,7 +37,13 @@
       "patterns": [
         "What type of loans do you offer?",
         "What kinds of loans do you have?",
-        "Do you have loans?"
+        "Do you have loans?",
+        "What loans do you have?",
+        "What loans does whence offer?",
+        "What loans does whence have?",
+        "Do you give Loans?",
+        "What packages do you offer?"
+        
       ],
       "responses": [
         "At Whence Financial Services, we offer payday soft loans and payroll deductible loans, each tailored to specific employment criteria. Our loans come in collateral-based and non-collateral-based options(you can simply pledge an assets), allowing borrowers to use assets or household items of value.",
@@ -49,7 +55,10 @@
       "patterns": [
         "What are your interest rates?",
         "What are your charges?",
-        "What are you fees?"
+        "What are you fees?",
+        "what is the interest?",
+        "What interest rates does whence have?",
+        "What interest rates do whence loans have?"
         
       ],
       "responses": [
@@ -87,7 +96,8 @@
       "patterns": [
         "How long till a loan is given?",
         "After I apply for a loan, when do i get it?",
-        "Do you give cash loans?"
+        "Do you give cash loans?",
+        "How long does it take for a loan to be processed?"
       ],
       "responses": [
         "We pride ourselves on the efficiency of our loan approval process, typically taking just a few hours (usually less than 3 hours) for first-time clients, contingent upon the prompt submission of all required documents, completion of the vetting process, and verification of the client's residence distance from our office. Returning clients enjoy an even quicker process, often completed in less than five minutes.."
@@ -98,7 +108,12 @@
       "patterns": [
         "How do i apply for a loan?",
         "I want to apply for a loan, how do i go about it?",
-        "Can I apply for a loan online?"
+        "Can I apply for a loan online?",
+        "How do i get a loan?",
+        "I need a loan",
+        "How do i go about getting a loan?",
+        "How do i go about getting these loans?",
+        "What do I need, for me to qualify for a loan at Whence financial services?"
         
       ],
       "responses": [
@@ -134,7 +149,8 @@
       "tag": "Repossesion",
       "patterns": [
         "What happens if i fail to pay back a loan?",
-        "Do you sell the collateral?"
+        "Do you sell the collateral?",
+        "If a Client gets a loan and he or she fails to pay back, what happens to the client?"
         
       ],
       "responses": [
@@ -146,10 +162,14 @@
       "patterns": [
         "How can I contact Whence Fiancial Services?",
         "How can I contact you?",
-        "What number can I call?"
+        "What number can I call?",
+        "Where can I find Whence?",
+        "Where is Whence located?",
+        "Where is whence",
+        "Where are whence offices"
       ],
       "responses": [
-        "You can visit any of our branches countrywide, check out our branches section on this page to view branch loactions. You can also contact us on +260 971 089 407 or visit our Headquarters at Zimco House Building, Suites 401 & 402, 4th Floor, Chainda Place "
+        "You can visit any of our branches countrywide, check out our branches section on this page to view branch locations. You can also contact us on +260 971 089 407 or visit our Headquarters at Zimco House Building, Suites 401 & 402, 4th Floor, Chainda Place. "
         
       ]
     },
@@ -158,7 +178,10 @@
       "patterns": [
         "What is Whence Financial Services?",
         "Who is Whence Financial Services?",
-        "Who works at Whence Financial Services?"
+        "Who works at Whence Financial Services?",
+        "What is whence?",
+        "Tell me about Whence"
+        
         
       ],
       "responses": [
@@ -189,6 +212,34 @@
       ],
       "responses": [
         "You can apply for jobs at any of our Whence Financial Services branch offices. This process is based on availability/job openings, so kindly look out for advertised jobs opportunities on our social media pages !"
+        
+      ]
+    },
+    {
+      "tag": "Collateral",
+      "patterns": [
+        "What can i brng as collateral?",
+        "What collateral do you accept?",
+        "Do you accept household goods as collateral?",
+        "Do you accept laptops as collateral?",
+        "Can I pledge a TV as collateral?",
+        "Can I pledge a laptop as collateral?"
+      ],
+      "responses": [
+        "At Whence Financial Services, we accept a diverse range of household goods as collateral for your loans. It's important that the goods pledged hold substantial value, equivalent to the amount of the loan you are requesting. This ensures a fair and transparent evaluation process."
+        
+      ]
+    },
+    {
+      "tag": "You",
+      "patterns": [
+        "Who are you?",
+        "What do you do at whence?",
+        "Whats your name?"
+        
+      ],
+      "responses": [
+        "I'm Whence, your friendly virtual assistant here to make your financial journey smoother and more informative. As the virtual ambassador of Whence Financial Services, I'm dedicated to providing you with the essential details you need to navigate our services seamlessly."
         
       ]
     }

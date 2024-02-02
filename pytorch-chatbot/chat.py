@@ -44,7 +44,7 @@ def get_response(msg):
             if tag == intent["tag"]:
                 return random.choice(intent['responses'])
     
-    return "I do not understand..."
+    return "I do not understand...Kindly contact our offices on +260 971 089 407 or visit our Headquarters at Zimco House Building, Suites 401 & 402, 4th Floor, Chainda Place for any inquiries on Whence Financial Services I am unable to process. :-)"
 
 
 if __name__ == "__main__":

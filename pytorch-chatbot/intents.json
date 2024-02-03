@@ -46,7 +46,7 @@
         
       ],
       "responses": [
-        "At Whence Financial Services, we offer payday soft loans and payroll deductible loans, each tailored to specific employment criteria. Our loans come in collateral-based and non-collateral-based options(you can simply pledge an assets), allowing borrowers to use assets or household items of value.",
+        "At Whence Financial Services, we offer payday soft loans and payroll deductible loans, each tailored to specific employment criteria. Our loans come in collateral-based and non-collateral-based options (you can simply pledge an asset), allowing borrowers to use assets or household items of value.",
         "Whence Financial Services provides customized payday soft loans and payroll deductible loans designed to meet specific employment criteria. Our loan options include both collateral-based and non-collateral-based choices, enabling borrowers to utilize assets or valuable household items as security."
       ]
     },
@@ -76,7 +76,7 @@
         "How much do you give?"
       ],
       "responses": [
-        "Our loan interest rates vary based on the repayment period. If you borrow and pay back within a week, the interest is as low as fifteen percent (15%). If you repay after a week but before the due date, it's thirty percent (30%). Paying back a week before the due date is at thirty-five percent (35%), and if you repay on the exact due date, it's forty percent (40%)."
+        "Our loan amounts are within a range of K500 - K3500. Higher amounts can be negotiated depening on the collateral being pledged. For more amount information contact +260 971 089 407. "
       ]
     },
     {
@@ -97,7 +97,11 @@
         "How long till a loan is given?",
         "After I apply for a loan, when do i get it?",
         "Do you give cash loans?",
-        "How long does it take for a loan to be processed?"
+        "How long does it take for a loan to be processed?",
+        "How qiuck can I get a loan?",
+        "How fast can i get a loan?",
+        "If i apply for a loan today, when will i get it?"
+
       ],
       "responses": [
         "We pride ourselves on the efficiency of our loan approval process, typically taking just a few hours (usually less than 3 hours) for first-time clients, contingent upon the prompt submission of all required documents, completion of the vetting process, and verification of the client's residence distance from our office. Returning clients enjoy an even quicker process, often completed in less than five minutes.."
@@ -185,7 +189,7 @@
         
       ],
       "responses": [
-        "Whence Financial Services is a member of Whence Group, an indigenous company incorporated in Zambia. It serves as a platform for highly motivated and resourceful entrepreneurs from high institutions of learning and other sectors of society to merge and find innovative solutions to the world’s problems. Take a look at our about section to find out more about what we do."
+        "Whence Financial Services is a member of Whence Group, an indigenous company incorporated in Zambia. It serves as a platform for highly motivated and resourceful entrepreneurs from high institutions of learning and other sectors of society to merge and find innovative solutions to the worlds problems. Take a look at our about section to find out more about what we do."
         
       ]
     },
@@ -195,7 +199,10 @@
         "What services do you offer?",
         "What other services do you offer apart from loans?",
         "What other financial services do you offer?",
-        "What else does this company do?"
+        "What else does this company do?",
+        "What other financial services does Whence have?",
+        "Apart from loans, what else does whence do?"
+
       ],
       "responses": [
         "At Whence Financial Services, we specialize in providing various loan options to meet your financial needs. For more details about our services, we encourage you to visit the Services and About sections on our website. Alternatively, feel free to contact us directly at +260 971 089 407 for personalized assistance and additional information. We look forward to assisting you with your financial inquiries!"
